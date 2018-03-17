@@ -79,11 +79,33 @@
     <section class="booking">
         <h2>заинтересовались?</h2>
         <p class="booking-info">укажите предполагаемые даты поездки, и мы покажем вам лучшие предложения гостинниц в седоне</p>
-        <h2>поиск гостинниц в седоне</h2>
+        <h2>поиск гостиницы в седоне</h2>
         
         <form action="https://echo.htmlacademy.ru" method="post">
+        <p>
+        <label>дата заезда:
+            <input type="date" name="date" autofocus autocomplete="off">
+        </label>
+        </p>
+        <p>
+        <label>дата выезда:
+            <input type="date" name="date" autocomplete="off">
+        </label>
+        </p>
+        <div class="half-width">
+        <p>    
+            <label>взрослые:
+                <input type="number" min="1" max="10" step="1" name="amount" autocomplete="on">
+            </label>
+            <label>дети:
+                <input type="number" min="1" max="10" step="1" name="amount" autocomplete="on">
+            </label>
+        </p>
+        </div>        
+        <div class="buttons">
+            <input type="submit" value="найти">
+        </div>
         </form>
-      <!-- Здесь будет форма -->
     </section>
   </main>
   
