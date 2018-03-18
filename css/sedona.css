@@ -23,7 +23,7 @@ a {
 
 .main-navigation,
 .site-navigation {
-list-style: none;
+	list-style: none;
 }
 
 .main-navigation a,
