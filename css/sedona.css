@@ -1,32 +1,93 @@
 body {
-margin: 0;
-padding: 0;
+  margin: 0;
+  padding: 0;
 
-font-family: "PT Sans", Arial, sans-serif; 
-font-size: 14 px;
-line-height: 26 px;
-font-weight: 700;
-color:#333333;
-text-transform: uppercase;
+  font-family: "PT Sans", Arial, sans-serif;
+  font-size: 14 px;
+  line-height: 26 px;
+  font-weight: 700;
+  color: #333333;
+  text-transform: uppercase;
 
-background-color:#ffffff;
-
+  background-color: #ffffff;
 }
 
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .main-navigation {
-	color:#000000;
+  color: #000000;
 }
 
 .main-navigation,
 .site-navigation {
-	list-style: none;
+  list-style: none;
 }
 
 .main-navigation a,
 .site-navigation a {
-	color:#000000;
+  color: #000000;
+}
+
+.main-title {
+  font-size: 21 px;
+  line-height: 26 px;
+  text-align: center;
+}
+
+.characteristic h2,
+.landmarks h2 {
+  font-size: 21 px;
+  line-height: 21 px;
+  text-align: center;
+}
+
+.characteristic p,
+.landmarks p {
+  font-size: 14 px;
+  line-height: 21 px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #81b3d2;
+}
+
+.infrastructure-item h3,
+.peculiarity h3 {
+  font-size: 21 px;
+  line-height: 21 px;
+  text-align: center;
+  color: #000000;
+}
+
+.infrastructure-item p,
+.peculiarity p {
+  text-align: center;
+}
+
+.peculiarity {
+  background-color: eeeeee;
+}
+
+.booking h2 {
+  font-size: 30 px;
+  line-height: 36 px;
+  text-align: center;
+}
+
+.booking-info {
+  font-size: 14 px;
+  line-height: 24 px;
+  text-align: center;
+}
+
+.booking h3 {
+  font-size: 21 px;
+  line-height: 26 px;
+  text-align: center;
+}
+
+.index-form p {
+  font-size: 14 px;
+  line-height: 26 px;
 }
