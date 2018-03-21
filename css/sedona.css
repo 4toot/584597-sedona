@@ -240,3 +240,43 @@ a {
 .sort-price {
   color: #95bed8;
 }
+
+.catalog-info a {
+  font-size: 14 px;
+  line-height: 21 px;
+  color: #fcffff;
+
+  background-color: #82b3d3;
+}
+
+.catalog-info a:hover {
+  background-color: #669ec1;
+}
+
+.catalog-info a:active {
+  color: #89b5d0;
+  
+  background-color: #5596be:;
+}
+
+.catalog-booking {
+  background-color: #766257;
+}
+
+.catalog-booking:hover {
+   background-color: #604e44;
+}
+
+.catalog-booking:active {
+  color: #877871;
+
+  background-color: #503e34;
+}
+
+.catalog-rating {
+  font-size: 14 px;
+  line-height: 21 px;
+  font-weight: 400;
+  color: #cdcdcd;
+  background-color: #f2f2f2;
+}
