@@ -49,6 +49,9 @@ a {
 .main-title p {
 	text-align: center;
 }
+.inner-page {
+  color: #766357;
+}
 
 .characteristic h2,
 .landmarks h2 {
@@ -148,4 +151,28 @@ a {
 .index-form input:active {
   background-color: #ebebeb;
 
+}
+
+.main-footer {
+  background-color:  background-color: rgba(225, 225, 225, 0.7);
+}
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  list-style: none;
+}
+
+.footer-copyright .botton {
+  color: #231f20;
+}
+
+.footer-copyright .botton:hover {
+  color:#7eb3d3; 
+}
+
+.footer-copyright .botton:active  {
+  color: #bcbabb;
 }
