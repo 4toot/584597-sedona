@@ -35,6 +35,9 @@ a {
   line-height: 26 px;
   text-align: center;
 }
+.main-title p {
+	text-align: center;
+}
 
 .characteristic h2,
 .landmarks h2 {
