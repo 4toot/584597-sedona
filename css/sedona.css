@@ -101,34 +101,30 @@ a {
   text-align: center;
 }
 
-.booking h3 {
-  font-size: 21 px;
-  line-height: 26 px;
-  text-align: center;
-  background-color: #766357;
-}
-
 .index-form p {
   font-size: 14 px;
   line-height: 26 px;
 }
 
-.button {
-	font:inherit;
+.button input {
+	font: inherit;
+
+  font-size: 21 px;
+  line-height: 26 px;
+
 	text-align: center;
 	vertical-align: middle;
 	text-transform: uppercase;
 	
 	border: none;
-	background-color: #81b3d2;
-
+	/*background-color: #766357;*/
 }
 
-.button:hover,
-.button:focus {
-	background-color: 669ec1;
+.button input:hover,
+.button input:focus {
+	background-color: #669ec1;
 }
 
-.button:active {
-	background-color: 5596be;
+.button input:active {
+	background-color: #5596be;
 }
