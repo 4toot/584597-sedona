@@ -31,14 +31,13 @@ a {
   color: #000000;
 }
 
-.main-navigation a:hover,
+
 .site-navigation a:hover,
 .catalog-description a:hover {
   color: #83b1d2;
 
 }
 
-.main-navigation a:active,
 .site-navigation a:active,
 .catalog-description a:active {
   color: #b3b3b3;
