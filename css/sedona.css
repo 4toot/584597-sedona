@@ -164,10 +164,6 @@ a {
   background-color: #766257;
 }
 
-.button input:active {
-	background-color: #5596be;
-}
-
 .index-form input {
   font: inherit;
 
