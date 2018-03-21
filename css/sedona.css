@@ -30,6 +30,17 @@ a {
   color: #000000;
 }
 
+.main-navigation a:hover,
+.site-navigation a:hover {
+  color: #83b1d2;
+
+}
+
+.main-navigation a:active,
+.site-navigation a:active {
+  color: #b3b3b3;
+}
+
 .main-title {
   font-size: 21 px;
   line-height: 26 px;
