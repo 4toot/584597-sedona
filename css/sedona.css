@@ -46,6 +46,8 @@ a {
   text-align: center;
 }
 
+.characteristic,
+.landmarks,
 .characteristic p,
 .landmarks p {
   font-size: 14 px;
