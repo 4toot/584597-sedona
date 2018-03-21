@@ -58,7 +58,11 @@ a {
 }
 
 .characteristic,
-.landmarks,
+.landmarks {
+  color: #ffffff;
+  background-color: #81b3d2;
+}
+
 .characteristic p,
 .landmarks p {
   font-size: 14 px;
