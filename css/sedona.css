@@ -128,11 +128,40 @@ a {
 	border: none;
 }
 
+.button input[type="submit"] {
+  color: #ffffff;
+  
+  background-color: #82b3d3;
+}
+
 .button input[type="submit"]:hover {
+  color: #ffffff;
+  
   background-color: #669ec1;
 }
+
+.button input[type="submit"]:active {
+  color: #88b6d0;
+  
+  background-color: #5596be;
+}
+
 .button input[type="button"]:hover {
+  color: #ffffff;
+  
   background-color: #604e44;
+}
+
+.button input[type="button"]:active {
+  color: #857870;
+  
+  background-color: #503e34;
+}
+
+.button input[type="button"] {
+  color: #ffffff;
+  
+  background-color: #766257;
 }
 
 .button input:active {
