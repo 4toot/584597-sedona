@@ -26,18 +26,21 @@ a {
 }
 
 .main-navigation a,
-.site-navigation a {
+.site-navigation a,
+.catalog-description a {
   color: #000000;
 }
 
 .main-navigation a:hover,
-.site-navigation a:hover {
+.site-navigation a:hover,
+.catalog-description a:hover {
   color: #83b1d2;
 
 }
 
 .main-navigation a:active,
-.site-navigation a:active {
+.site-navigation a:active,
+.catalog-description a:active {
   color: #b3b3b3;
 }
 
@@ -120,11 +123,7 @@ a {
 	text-transform: uppercase;
 	
 	border: none;
-	/*background-color: #766357;*/
-}
 
-.button-search input {
-  background-color: #81b3d2;
 }
 
 .button input:hover,
