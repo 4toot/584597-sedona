@@ -120,6 +120,10 @@ a {
 	/*background-color: #766357;*/
 }
 
+.button-search input {
+  background-color: #81b3d2;
+}
+
 .button input:hover,
 .button input:focus {
 	background-color: #669ec1;
@@ -127,4 +131,21 @@ a {
 
 .button input:active {
 	background-color: #5596be;
+}
+
+.index-form input {
+  font: inherit;
+
+  background-color: #f2f2f2;
+  border: none;
+}
+
+.index-form input:focus {
+  background-color:#ffffff;
+
+}
+
+.index-form input:active {
+  background-color: #ebebeb;
+
 }
